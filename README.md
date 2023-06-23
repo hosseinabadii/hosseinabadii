@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Khosro Hossein Abadi
+- 👀 I’m interested in **Python Software Development** and **Machine Learning**.
+- 🌱 I’m currently learning **Python Programmig Language** and **Machine Learning**.
+- 💞️ I’m collaborating on **Pytopia** organizations.
+- 📫 **Email:** khosro.h2011@gmail.com
