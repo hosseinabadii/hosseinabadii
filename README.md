@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Khosro Hossein Abadi
-- 👀 I’m interested in **Python Software Development** and **Machine Learning**.
-- 🌱 I’m currently learning **Python Programmig Language** and **Machine Learning**.
+- 🚀 I’m interested in **Full-Stack Web Development**, **Python Software Development**, and **Machine Learning**, with a focus on integrating ML models into web applications.
+- 🌱 I’m currently building projects with:
+  - ⚙️ **Backend Development**: Using **Python** frameworks like **FastAPI** for building high-performance APIs and **Django** for full-stack web applications.
+  - 🎨 **Frontend Development**: Leveraging modern JavaScript frameworks like **React** for dynamic user interfaces and **Next.js** for server-side rendering and scalable web applications.
+- 🤝 I’m looking to collaborate on projects involving **web development**, **APIs**, and **machine learning integration**.
 - 📫 **Email:** khosro.h2011@gmail.com
