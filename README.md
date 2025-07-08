@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Khosro Hossein Abadi
-- 🚀 I’m interested in **Full-Stack Web Development**, **Python Software Development**, and **Machine Learning**, with a focus on integrating ML models into web applications.
+- 🚀 I’m interested in **Python Backend Development**, **AI Agents**, and **Machine Learning Engineering**, with a strong focus on building robust APIs and integrating intelligent systems into applications.
 - 🌱 I’m currently building projects with:
-  - ⚙️ **Backend Development**: Using **Python** frameworks like **FastAPI** for building high-performance APIs and **Django** for full-stack web applications.
-  - 🎨 **Frontend Development**: Leveraging modern JavaScript frameworks like **React** for dynamic user interfaces and **Next.js** for server-side rendering and scalable web applications.
-- 🤝 I’m looking to collaborate on projects involving **web development**, **APIs**, and **machine learning integration**.
-- 📫 **Email:** khosro.h2011@gmail.com
+  - ⚙️ **Backend Development**: Using **Python** frameworks like **FastAPI** for high-performance asynchronous APIs, **Django** for scalable web backends, and **Django REST Framework** for powerful API solutions.
+  - 🧠 **AI/ML Development**: Leveraging **LangChain** for building advanced Retrieval-Augmented Generation (RAG) chatbots and other AI agents.
+- 🤝 I’m looking to collaborate on projects involving **backend development**, **AI/ML integration**, and **API design**.
+- 📫 **Email**: khosro.h2011@gmail.com
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/hosseinabadii/
